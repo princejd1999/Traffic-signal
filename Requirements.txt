@@ -1,0 +1,6 @@
+##Requirements
+Python - Libraries
+1) Opencv
+2) time
+3) serial
+4)numpy
